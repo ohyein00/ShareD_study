@@ -12,7 +12,7 @@ const App = () => {
         <Route path="subs/*" element={<Subs/>}>
           <Route path="" element={<Step00/>}/>
           <Route path="step01" element={<Step01/>}/>
-          <Route path="step02" element={<Step02/>}/>
+          <Route path=":service/step02" element={<Step02/>}/>
         </Route>
       </Routes>
     </BrowserRouter>

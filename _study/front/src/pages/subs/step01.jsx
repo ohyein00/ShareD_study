@@ -15,7 +15,7 @@ const Step01 = () => {
       <h2>Step.01 - {myService}</h2>
       <h3>신청할 OTT 서비스를 선택해주세요.</h3>
       <button onClick={setService}>Netflix</button>
-      <button>Youtube</button>
+      <button onClick={setService}>Youtube</button>
       <div>
       <button onClick={()=>{navigation(`/subs/${myService}/step02`)}} disabled={!myService}>Next</button>
       </div>

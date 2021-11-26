@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6cacced6-f5b1-4a7b-8108-0cfe3bf7a9c8" name="Default Changelist" comment="" />
+    <list default="true" id="6cacced6-f5b1-4a7b-8108-0cfe3bf7a9c8" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_study/front/src/layout/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/_study/front/src/layout/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_study/front/src/pages/subs/step01.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/_study/front/src/pages/subs/step01.jsx" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -62,11 +66,23 @@
       <option name="presentableId" value="Default" />
       <updated>1637935329074</updated>
       <workItem from="1637935330300" duration="93000" />
-      <workItem from="1637935474629" duration="385000" />
+      <workItem from="1637935474629" duration="687000" />
     </task>
+    <task id="LOCAL-00001" summary="step router">
+      <created>1637935894147</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1637935894147</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="step router" />
+    <option name="LAST_COMMIT_MESSAGE" value="step router" />
   </component>
 </project>
